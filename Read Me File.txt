@@ -1,0 +1,73 @@
+External Components & Assets List
+
+This document provides a list of all external components, assets, and references used to create scripts used in the Unity project.
+
+Unity Asset Store
+- Rust Key - https://assetstore.unity.com/packages/3d/props/rust-key-167590
+- Footstep Essentials - https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879
+- Vast Outer Space - https://assetstore.unity.com/packages/3d/environments/sci-fi/vast-outer-space-38913
+- Ghost Character Free - https://assetstore.unity.com/packages/3d/characters/creatures/ghost-character-free-267003
+
+Mixamo Characters and animation
+- The Boss - https://www.mixamo.com/#/?page=1&query=boss&type=Character
+- Peasant Girl - https://www.mixamo.com/#/?page=1&query=peasant+girl&type=Character
+- Mousey - https://www.mixamo.com/#/?page=1&query=Mousey&type=Character
+- Michelle - https://www.mixamo.com/#/?page=1&query=Michelle&type=Character
+- Ortiz - https://www.mixamo.com/#/?page=1&query=Ortiz&type=Character
+- Peasant Man - https://www.mixamo.com/#/?page=1&query=Peasant+Man&type=Character
+
+- Flair - https://www.mixamo.com/#/?page=1&query=Flair&type=Motion%2CMotionPack
+- Hip Hop Dancing - https://www.mixamo.com/#/?page=1&query=hiphop&type=Motion%2CMotionPack
+- Chicken Dance - https://www.mixamo.com/#/?page=1&query=Chicken+Dance&type=Motion%2CMotionPack
+- Salsa Dancing - https://www.mixamo.com/#/?page=1&query=Salsa+Dance&type=Motion%2CMotionPack
+- Silly Dancing - https://www.mixamo.com/#/?page=1&query=Silly++Dance&type=Motion%2CMotionPack
+- Walking - https://www.mixamo.com/#/?page=1&query=Walking&type=Motion%2CMotionPack
+- Jump - https://www.mixamo.com/#/?page=1&query=Jump&type=Motion%2CMotionPack
+
+
+Free Online Resources
+- Game Over UI Image - https://wallpapers.com/dark-game-over
+- (Background music) Clavar La Espada - https://www.youtube.com/watch?v=Z9Onb_z0XPI
+- (Winning Music) [MEXICAN PHONK] "MUCHA LUCHA" - S4nri0, Kobe Mane - https://www.youtube.com/watch?v=S4cmcjVOqt0
+- To Generate maze layout - https://www.mazegenerator.net/
+
+Online Code References
+- https://docs.unity3d.com/ScriptReference/Vector3.Distance.html
+- https://docs.unity3d.com/ScriptReference/Time-time.html
+- https://docs.unity3d.com/ScriptReference/Canvas.html
+- https://docs.unity3d.com/ScriptReference/UI.Image.html
+- https://docs.unity3d.com/ScriptReference/Animation.html
+- https://docs.unity3d.com/ScriptReference/Color.html
+- https://docs.unity3d.com/ScriptReference/UI.Image.html
+- https://docs.unity3d.com/ScriptReference/AI.NavMeshAgent.html
+- https://docs.unity3d.com/ScriptReference/Physics.Raycast.html
+- https://docs.unity3d.com/ScriptReference/MonoBehaviour.Awake.html
+- https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/script-RawImage.html
+- https://docs.unity3d.com/ScriptReference/Transform-position.html
+- https://learn.unity.com/tutorial/ui-components
+- https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/script-Slider.html
+- https://www.youtube.com/watch?v=BLfNP4Sc_iA&list=LL&index=1&t=831s
+- https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html
+- https://docs.unity3d.com/ScriptReference/Vector3.Lerp.html
+- https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html
+- https://docs.unity3d.com/ScriptReference/Object.Destroy.html
+- https://docs.unity3d.com/ScriptReference/Object.Instantiate.html
+- https://docs.unity3d.com/ScriptReference/Random.Range.html
+- https://docs.unity3d.com/Manual/StateMachineBehaviours.html
+- https://www.youtube.com/watch?v=NEvdyefORBo
+- https://www.youtube.com/watch?v=tdYsq96kCYI&t=215s
+- https://www.youtube.com/watch?v=5qDadIloxvU
+- https://docs.unity3d.com/ScriptReference/Input.GetAxis.html
+- https://www.youtube.com/watch?v=_QajrabyTJc
+- https://www.youtube.com/watch?v=NjjRkms8ODk
+- https://www.youtube.com/watch?v=BLfNP4Sc_iA&list=LL&index=1&t=831s
+- https://docs.unity3d.com/Manual/coroutines.html
+- https://docs.unity3d.com/ScriptReference/Rigidbody.html
+- https://www.youtube.com/watch?v=1uW-GbHrtQc
+- https://www.youtube.com/watch?v=_QajrabyTJc
+- https://www.youtube.com/watch?v=cKPdSKBM4rs
+- https://www.youtube.com/watch?v=6OT43pvUyfY
+- https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html
+- https://docs.unity3d.com/ScriptReference/Animator.SetTrigger.html
+- https://docs.unity3d.com/ScriptReference/AudioSource.html
+- https://discussions.unity.com/t/changing-between-cameras/3254/4
